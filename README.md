@@ -7,6 +7,10 @@ Our research offers future shareholders a fresh perspective to safeguard against
 ## Documents Intro
 **ust_risk_data.txt** : the original data covering over 1.2 million news articles and social media posts and comments in Hong Kong from 10/2021 to 9/2023
 
+Acknowledgment:
+
+This dataset is sponsored by Wisers Information Limited, the world's leading expert in all-media big data smart business intelligence solutions. With 20 years of massive media data accumulation and the largest Chinese Media Database in the world, Wisers not only has excellent data processing and text retrieval technology, but also the industry's leading AI research lab for natural language studies. Wisers works closely with top-notch academic institutions to push the boundaries of what is possible with AI, Natural Language Processing (NLP), language taxonomy, image recognition, and emerging data technologies.
+
 **News_analysis.ipynb** : the main program to process and analyse data.
 
 **sentiment_scores.xlsx** : the excel containing the sentiment score each month from 10/2021 to 9/2023.
