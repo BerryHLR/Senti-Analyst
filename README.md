@@ -15,6 +15,8 @@ Our research offers future shareholders a fresh perspective to safeguard against
 ![image](https://github.com/BerryHLR/Senti-Analyst/assets/129359676/669bc690-6219-440a-9b71-1e439896853d)
 ![image](https://github.com/BerryHLR/Senti-Analyst/assets/129359676/1beb3a90-3fd8-4b3c-b74f-cfdabba9e065)
 4. We find that likes and comments are positively correlated with influence and use this to train a model to predict news influence based on content.
+## Usage :star2:
+
 ## Key Findings or Results :triangular_flag_on_post:
 Our analysis suggests that Country Garden's stock price trends can be predicted from news attention and sentiment scores. Increased news attention and sentiment scores can indicate a potential rise in stock price, while intense news discussions and falling sentiment scores can suggest a potential decline. Sharp increases in news attention and shifts in sentiment scores can predict a consistent decrease in stock price, indicating potential risks.
 ## Recommendations or Proposed Solutions :memo:
